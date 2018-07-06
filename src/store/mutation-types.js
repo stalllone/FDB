@@ -1,0 +1,9 @@
+export const SET_MOVIE="SET_MOVIE"
+
+export const HIDE_HEADER="HIDE_HEADER"
+
+export const SHOW_HEADER="SHOW_HEADER"
+
+export const SET_WANTED_MOVIES = "SET_WANTED_MOVIES"
+
+export const SET_WATCHED_MOVIES = "SET_WATCHED_MOVIES"
